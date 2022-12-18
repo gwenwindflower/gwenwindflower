@@ -19,6 +19,8 @@
 
 📝💻 i'm writing my first novel, and building my first ML app to get my python up to par with my SQL skills.
 
-🌱🌤️ i'm super into PKM and note-taking! check out [Dendron](https://github.com/dendronhq/dendron) my current tool of choice. 
+🌱🌤️ i'm super into PKM and note-taking! check out [Dendron](https://github.com/dendronhq/dendron) my current tool of choice.
+
+🎤🦣 i post *a lot* on mastodon -- my profile link is in the sidebar.
 
 📚🤓 **Currently studying**: [Learning Statistics with R](https://learningstatisticswithr.com/)
