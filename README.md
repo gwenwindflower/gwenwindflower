@@ -21,6 +21,6 @@
 
 🌱🌤️ i'm super into PKM and note-taking! check out [Dendron](https://github.com/dendronhq/dendron) my current tool of choice.
 
-🎤🦣 i post *a lot* on [mastodon](https://sunny.garden/@winnie).
+🎤🦣 i post *a lot* on [Mastodon](https://sunny.garden/@winnie).
 
 📚🤓 **Currently studying**: [Learning Statistics with R](https://learningstatisticswithr.com/)
