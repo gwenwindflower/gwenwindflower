@@ -19,8 +19,6 @@
 
 📝💻 i'm writing my first novel, and building my first ML app to get my python up to par with my SQL skills.
 
-🌱🌤️ i'm super into PKM and note-taking! i currently use a combinatiohn of [Anki](https://apps.ankiweb.net/), [Obsidian](https://obsidian.md/), and [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs#scratch-notes). Exploring [Kinopio](https://kinopio.club) and [NeuraCache](https://neuracache.com/).
-
-🎤🦣 i post *a lot* on [Mastodon](https://sunny.garden/@winnie).
+🌱🌤️ i'm super into PKM and note-taking! i currently use a combination of [Anki](https://apps.ankiweb.net/), [Obsidian](https://obsidian.md/), and [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs#scratch-notes). Exploring [Kinopio](https://kinopio.club) and [NeuraCache](https://neuracache.com/).
 
 📚🤓 **Currently studying**: TypeScript! Learning some computer science basics and building my first full stack app with Next.js! More on that soon...
