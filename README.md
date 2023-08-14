@@ -1,26 +1,30 @@
-👋🌻 hi! my name is gwen windflower but everybody calls me winnie.
+> The trouble is that thought and culture are not the sort of thing that can have distinct units. 
+> They do not have a granular structure for the same reason that ocean currents do not have one — namely, because they are not stuffs, but patterns.
+>
+> — **Mary Midgley**, _Myths We Live By_
+```shell
+
+                     %%%%
+                    %%%%-(
+                  _%%%%%_/                        \ ' /
+                _%%%%%%%%                        - (_) -
+              _%%%%%%%/ \%                        / , \
+             %%%%%%%%%\\ \_
+               %%%%%%   \ \\
+                   )    /\_/
+                 /(___. \
+                 '----' (
+                /       )
+    ---....____/        (_____ __ _ ___ ___ __ _ _ _____ _ _ ___
+              /         )---...___ =-= = -_= -=_= _-=_-_ -=- =-_
+            ,'          (         ```--.._= -_= -_= _-=- -_= _=-
+         ,-'            )                 ``--._=-_ =-=_-= _-= _
+         '-._    '-..___(                       ``-._=_-=_- =_-=
+             ``---....__)                            `-._-=_-_=-
+                   )|)|                                  `-._=-_
+                  '-'-.\_                                    `-.                     .                                                               
 ```
-..       :
-                    .                  .               .   .  .
-      .           .                .               .. .  .  *
-             *          .                    ..        .
-                           .             .     . :  .   .    .  .
-            .                         .   .  .  .   .
-                                         . .  *:. . .
-.                                 .  .   . .. .         .
-                         .     . .  . ...    .    .
-       .              .  .  . .    . .  . .
-                        .    .     . ...   ..   .       .               .
-                 .  .    . *.   . .
-    .                   :.  .           .
-                 .   .    .    .
-             .  .  .    ./|\
-            .  .. :.    . |             .               .
-     .   ... .            |
- .    :.  . .   *.        |     .               .
-   .  *.             You are here.
- . .    .               .             *.                         .                                                               
-```
+### 👋🌻 hi! my name is gwen windflower but everybody calls me winnie.
 
 💗🤗 it's lovely to meet you!
 
