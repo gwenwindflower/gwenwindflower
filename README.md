@@ -32,8 +32,6 @@
 
 🍊⚙️ i work in developer experience [@dbt-labs](https://github.com/dbt-labs) these days, but i'm forever an analytics engineer at heart.
 
-📝💻 i'm writing my first novel, and building my first full-stack ML app.
-
 🌱🌤️ i'm super into PKM and note-taking! i currently use a combination of [Neovim with Mkdnflow](https://github.com/jakewvincent/mkdnflow.nvim), [Readwise](https://readwise.io) and [Kinopio](https://kinopio.club) to catalog, visualize, study, and share learning.
 
 👩🏻‍🌾📝 i get a bit too into gardening my dotfiles. you can [check them out here](https://github.com/gwenwindflower/charm-school).
