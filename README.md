@@ -37,7 +37,7 @@
 👩🏻‍🌾📝 i get a bit too into gardening my dotfiles. you can [check them out here](https://github.com/gwenwindflower/charm-school).
 
 #### 📚🤓 currently studying
-- TypeScript! learning some computer science basics and building my first full stack app with Next.js to track my reading! More on that soon...
+- learning some computer science basics and building my first full stack app with Next.js to track my reading! More on that soon...
 - doing some advanced RAG with LlamaIndex
 
 #### ✨🌸 some things i like that help me code, write, share, and think
