@@ -32,7 +32,7 @@
 
 🍊⚙️ i work in developer experience [@dbt-labs](https://github.com/dbt-labs) these days, but i'm forever an analytics engineer at heart.
 
-🌱🌤️ i'm super into PKM and note-taking! i currently use a combination of [Neovim with Mkdnflow](https://github.com/jakewvincent/mkdnflow.nvim), [Readwise](https://readwise.io) and [Kinopio](https://kinopio.club) to catalog, visualize, study, and share learning.
+🌱🌤️ i'm super into PKM and note-taking! i've used a lot of different tools over the year, but am currently using a combination of [Neovim with Mkdnflow](https://github.com/jakewvincent/mkdnflow.nvim), [Readwise](https://readwise.io) and [Kinopio](https://kinopio.club) to catalog, visualize, study, and share learning — my goal is to eventually get the knowledge graph of my notes built into [my homepage](https://github.com/gwenwindflower/gwenwindflower.github.io).
 
 👩🏻‍🌾📝 i get a bit too into gardening my dotfiles. you can [check them out here](https://github.com/gwenwindflower/charm-school).
 
