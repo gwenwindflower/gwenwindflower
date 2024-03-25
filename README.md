@@ -2,7 +2,7 @@
 > They do not have a granular structure for the same reason that ocean currents do not have one — namely, because they are not stuffs, but patterns.
 >
 > — **Mary Midgley**, _Myths We Live By_
-```shell
+```
                             
                                                  %%%%
                                                 %%%%-(
