@@ -38,7 +38,9 @@
 
 #### 📚🤓 currently hacking on
 - building a robust [copier template for dbt projects](https://github.com/gwenwindflower/copier-dbt)
-- intermittently building my first full stack app with Next.js to track my reading! More on that soon...
+- a complete data stack[ analyzing SF's tree dats](https://github.com/gwenwindflower/dbtree)
+- a loader CLI for the [massive GitHub Archive dataset](https://github.com/gwenwindflower/octoduck)
+- Lots of LLM stuff
 
 #### ✨🌸 some things i like that help me code, write, share, and think
 - the [Between 3ANC Wireless Earbuds](https://www.status.co/products/between-3anc) - i was a recording engineer and producer in a past life, and these have far better sound quality and noise cancellation than AirPod Pros. big rec.
