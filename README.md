@@ -38,6 +38,7 @@
 
 #### 📚🤓 currently hacking on
 - building a robust [copier template for dbt projects](https://github.com/gwenwindflower/copier-dbt)
+- learning Go by building a [code generation CLI for dbt](https://github.com/gwenwindflower/tbd)
 - a complete data stack[ analyzing SF's tree dats](https://github.com/gwenwindflower/dbtree)
 - a loader CLI for the [massive GitHub Archive dataset](https://github.com/gwenwindflower/octoduck)
 - Lots of LLM stuff
