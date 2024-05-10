@@ -34,7 +34,7 @@
 
 🌱🌤️ i write a blog called [`data cowgirl`](https://datacowgirl.sh)
 
-👩🏻‍🌾📝 i get a bit too into gardening my dotfiles. you can [check them out here](https://github.com/gwenwindflower/charm-school).
+👩🏻‍🌾📝 i get a bit too into gardening my dotfiles. you can [check them out here](https://github.com/gwenwindflower/.charmschool).
 
 #### 📚🤓 currently hacking on
 - building a robust [copier template for dbt projects](https://github.com/gwenwindflower/copier-dbt)
