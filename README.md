@@ -2,49 +2,30 @@
 > They do not have a granular structure for the same reason that ocean currents do not have one — namely, because they are not stuffs, but patterns.
 >
 > — **Mary Midgley**, _Myths We Live By_
+
 ```
-                            
-                                                 %%%%
-                                                %%%%-(
-                                              _%%%%%_/                        \ ' /
-                                            _%%%%%%%%                        - (_) -
-                                          _%%%%%%%/ \%                        / , \
-                                         %%%%%%%%%\\ \_
-                                           %%%%%%   \ \\
-                                               )    /\_/
-                                             /(___. \
-                                             '----' (
-                                            /       )
---.--.-___---...----_____------..--....____/        (_____ __ _ ___ ___ __ _ _ _____ _ _ ______ __ _ ___ ___ __ _ _ _____ _ _ __
-                                          /         )---...___ =-= = -_= -=_= _-=_-_ -=- =-_=_= _-=_-_ -=- =-_=_= _-=_-_ -=- =-_
-                                        ,'          (         ```--.._= -_= -_= _-=- -_= _=--_= -_= _-=- -_= _=--_= -_= _-=- -_= _=-
-                                     ,-'            )                 ``--._=-_ =-=_-= _-= _ -_= _-=- -_= _=--_= -_= _-=- -_= _=-
-                                     '-._    '-..___(                       ``-._=_-=_- =_-=_-=_- =_-=-_=_= _-=_-_ -=- =-_=_= _-=_-_ 
-                                         ``---....__)                            `-._-=_-_=--_=_= _-=_-_ _= _-=_-_ -=- =-_=_= _-=_-_ 
-                                               )|)|                                  `-._=-__= _-=_-_ -=- =-_=_-_ -=- =-_=_=_-_ -=- 
-                                              '-'-.\_                                    `-.                     .                                                               
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠒⠦⣄⣠⠶⠞⠳⣆⠀⠀⠀⠀
+⠀⠀⠀⣴⠛⠛⠛⠲⢦⣤⡴⠶⠶⢶⠏⠀⢀⣄⣹⣇⡀⠀⠀⣻⡀⠀⠀⠀
+⠀⠀⠀⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠂⠀⢿⣼⠋⠀⠉⣿⣍⠉⠉⡆⠀⠀
+⠀⠀⠀⢿⡤⠀⠀⠀⠀⠀⠀⠀⠀⠈⠧⠤⠤⠿⢦⣀⣤⠿⠼⠀⣰⠃⠀⠀
+⠀⠀⠀⡾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⠤⠶⢿⡀⠀⠀
+⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣼⡧⠤⠆
+⣠⣤⢼⡧⢤⠀⠀⠀⢠⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡇⠀⠀⠀⣤⣧⣄⡀
+⠀⠀⢀⡿⠉⠹⡄⠀⠈⠋⠀⠀⠀⣴⠒⡆⠀⠀⠀⠀⠀⠀⠀⣀⣼⠁⠀⠀
+⢠⡞⠉⠛⠀⠀⠹⠶⠶⣄⠀⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⣀⠾⠉⠙⠒⠀
+⠀⠳⢤⣀⠀⠀⢠⠖⠒⠈⢳⣀⠀⠀⢀⣀⣀⣀⣤⠤⠖⠛⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⢹⡀⠀⠘⠲⠖⠃⣼⠋⠉⠁⠉⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠛⠦⣤⣤⠴⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
+
 ### 👋🌻 hi! my name is gwen windflower but everybody calls me winnie.
 
-💗🤗 it's lovely to meet you!
+💗🤗 it's really wonderful to meet you!
 
-🤠📊 i'm a data cowgirl, primarily working in python and SQL, with a focus on wrangling data in cloud warehouses.
+🤠📊 i'm what you might call a data cowgirl — from analytics to engineering, apps to developer tools, i'm deeply experienced in the craft of extracting maximum utility with the clearest possible systems from even the wildest herds of data. my philosophy centers around _narrative_ — i build *story*-first, with the goal of pushing our narratives to hew closer and closer to reality, and with that making them more and more useful. actual change and impact — increasing velocity, simplifying, systemizing, creating clarity, and nurturing fingertip-feel for the levers of growth throughout an entire organization — these are the metrics i measure my success by. as much as i love spending time on the command line and writing code, the most important work i do is stoking a passion for understanding, encouraging curiousity and exploration, and ensuring everybody can think and speak natively in the language of data. my experience has shown me that 5 people meeting consistently every week to go over the same 30 metrics printed out on PDFs is more powerful than 500 people with the most sophisticated self-service BI system and no consistency. data is like an extra sense, the only one that lets us map the shape of the business, and thoroughly mastering the resources in an area is far more useful than the random glimpses of ad-hoc questions, the answers of which will be forgotten by the end of the day.
 
-🍊⚙️ i work in developer experience [@dbt-labs](https://github.com/dbt-labs) these days, but i'm forever an analytics engineer at heart.
+🍊⚙️ i spent a few years working in developer experience [@dbt-labs](https://github.com/dbt-labs), and before that a couple years in their consulting wing. both were incredible, formative experiences that helped me understand data challenges across a huge variety of organizatioins, sharpen my viewpoint, and become an exceptional teacher. working in DX was particularly special, as our team not only handled typical work like creating resources and community management, but also building tooling and contributing to the product directly, creating a truly comprehensive bridge between dbt Labs and the dbt community. 
 
-🌱🌤️ i write a blog called [`data cowgirl`](https://datacowgirl.sh)
+👩🏻‍🌾📝 i am a command line lover and vim obsessive, so i get a bit too into gardening my dotfiles. you can [check them out here](https://github.com/gwenwindflower/.charmschool).
 
-👩🏻‍🌾📝 i get a bit too into gardening my dotfiles. you can [check them out here](https://github.com/gwenwindflower/.charmschool).
-
-#### 📚🤓 currently hacking on
-- building a robust [copier template for dbt projects](https://github.com/gwenwindflower/copier-dbt)
-- learning Go by building a [code generation CLI for dbt](https://github.com/gwenwindflower/tbd)
-- a complete data stack[ analyzing SF's tree dats](https://github.com/gwenwindflower/dbtree)
-- a loader CLI for the [massive GitHub Archive dataset](https://github.com/gwenwindflower/octoduck)
-- Lots of LLM stuff
-
-#### ✨🌸 some things i like that help me code, write, share, and think
-- the [Between 3ANC Wireless Earbuds](https://www.status.co/products/between-3anc) - i was a recording engineer and producer in a past life, and these have far better sound quality and noise cancellation than AirPod Pros. big rec.
-- the [Planck keyboard](https://blog.zsa.io/2307-goodbye-planck-ez/) - while you can no longer buy the pre-built one made by ZSA, you can still get these from various builders. super cute, portable, and ortholinear, what more can you ask for? i use Kalih BOX White clicky switches.
-- [brain.fm](https://www.brain.fm/) - i find music to be deeply engaging because of my background as a producer, and it's hard for me to work to. conversely, brain.fm's music, which is engineered to provide endless background content and improve focus, works for me though. if you find Spotify a bit too stimulating, you might give it a shot.
-- the [Shure MV7 mic](https://www.shure.com/en-US/products/microphones/mv7) - about 78% as good as the venerable [Shure SM7B](https://en.wikipedia.org/wiki/Shure_SM7) (I've owned both), which is the best microphone for normal speech in my opinion, at a much cheaper price point and simpler setup.
+🌍📚 i've been really obsessed with writing cute and useful CLI tools in Go with the [Charm](https://github.com/charmbracelet) libraries lately. it makes me very happy.
