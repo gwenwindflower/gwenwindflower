@@ -29,3 +29,5 @@
 👩🏻‍🌾📝 i am a command line lover and vim obsessive, so i get a bit too into gardening my dotfiles. you can [check them out here](https://github.com/gwenwindflower/.charmschool).
 
 🌍📚 i've been really obsessed with writing cute and useful CLI tools in Go with the [Charm](https://github.com/charmbracelet) libraries lately. it makes me very happy.
+
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/22056133/original_0d5668acc4b1d30ab5b462553f91f31b.png?1685494625?bc=0" />
