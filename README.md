@@ -41,6 +41,19 @@ o　　 ,ノ
 
 🎷🦕 To that end, writing cute and useful CLI tools in Go with the [Charm](https://github.com/charmbracelet) libraries lately. It makes me very very happy.
 
+
+##### 📈🥬 Some data tools (SaaS stuff) that I really love:
+  - [Hex](https://hex.tech/)
+  - [Modal](https://modal.com/)
+  - [MotherDuck](https://motherduck.com)
+
+##### 💌🌸 Some data tools (OSS) that I really love:
+  - [DuckDB](https://duckdb.org/docs/stable/)
+    - Cool stuff with Arrow Flight like the [Airport](https://airport.query.farm/) extension
+  - [Daft](https://www.daft.ai/)
+  - [DataFusion](https://datafusion.apache.org/) (and the convergence on A4 - All Apache Arrow Always)
+  - [Marimo](https://marimo.app/)
+
 ### Au revoir!
 
 🃏🧚🏼 I'll leave you with something relevant to ponder — my favorite card from Brian Eno's famous Oblique Strategies deck...
@@ -65,4 +78,4 @@ o　　 ,ノ
 ```
 
 [^1]: If you're frustrated that I don't treat "data" as a plural, sorry—language is a living, evolving thing!
-[^2]: Yes even AI! While AI is _incredible_ for data analysis and building software, the best questions, the deep _why_s that change the world, those are still human.
+[^2]: Yes even AI! While AI is _incredible_ for data analysis and building software, the best questions, the deep _why_ questions that change the world, those are still human.
