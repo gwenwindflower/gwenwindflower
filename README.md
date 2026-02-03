@@ -56,6 +56,8 @@ o　　 ,ノ
   - [DataFusion](https://datafusion.apache.org/) (and the convergence on A4 - All Apache Arrow Always)
   - [Marimo](https://marimo.app/)
 
+If you like my recommendations and want more: my collecting/scrapbooking/journaling/organizing/labeling instinct is powerful, so I am a dedicated GitHub Stargazer — you're welcome to explore [my lists](https://github.com/gwenwindflower?tab=stars)!
+
 ### 🌶️🤷🏻‍♀️ A handful of heresies
 
 1. Data visualization is overrated! Don't get me wrong, I love visuals, and there are many, many analyses where they help communicate in a way words can't (I'm a girl with the complete works of Tufte on my shelf) — but in BI, visualization is treated as the go-to, the standard, THE final destination of all this engineering and modeling effort. It's past time we remembered that this week's revenue numbers might work better in a short paragraph, and thankfully LLMs are getting us there.
