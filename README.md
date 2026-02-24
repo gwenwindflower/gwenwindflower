@@ -17,32 +17,53 @@ o　　 ,ノ
 　.(ノ
 ```
 
-### 🍓📊 Welcome!
+### 🍓📊 Hi! Welcome!
+### My name is Gwyneth, but everybody calls me Winnie
+##### (or Gwen if I'm in trouble)
+###### or 'Aunt Gen' if you're my niece 🥹
 
-#### This is my little code garden, I'm glad you're here. 
+💽🌿 I love building stuff with and for data. It's popular these day's to discuss expanding 'data literacy', but data is not a language, it's an extension our _senses_. Data lets us comprehend the shape and movement of events beyond our direct physical perceptions — across space and time — which I think is pretty exciting (but also I'm a huge nerd). Unlike a language, because it's tied to our senses, this power is available to everyone. It's not an inherent expression of one culture, it instead lets us communicate useful patterns and form narratives _across_ them. I won't pretend that using it effectively doesn't require learning, there's a deep well of knowledge, of course — but when people are convinced data analysis is totally alien, it limits them unnecessarily. They throw their everyday instincts from years of navigating the world out the window, when they're actually the perfect foundation for learning how to traverse this more expansive plane. The rules aren't different, it's just a _lot_ more input, and that drives the learning curve. It's less counterintuitive than _**extra**_-intuitive.
 
-##### My name is Gwyneth Windflower, but everybody calls me Winnie (or Gwen if I'm in trouble, or 'Aunt Gen' if you're my niece)
+🌌🐴 Given the vastness of my fascination with data, I've never been able to stay cramped in the box of analyst or engineer (or software developer, developer experience advocate, teacher, consultant, manager...), so often I prefer to just say I’m a **Data Cowgirl**. You know: ride around my trusty stallion Bracket and make sure all the data is[^1] thriving. Nurture it, help it grow strong, and when the leaves turn, go shear it and spend the long winter weaving it into tapestries. That kind of thing?
 
-###### which you're probably not because she's 2 and doesn't know how to code yet!
+To be less..._poetic_[^2] about it — the way this manifests changes all the time, making labels a bit difficult. I've spent professional stretches:
 
-💽🌿 I do _a lot_ of different stuff, my friend! The unifying theme is helping humans use our most recently evolved sensory tool — _**data**_ — in ways that are both more effective _and_ intuitive. So, while I hate to be overly cute about things (not true, like extremely not true), instead of staying cramped in the box of analyst or engineer (or developer experience advocate, teacher, consultant, manager...), sometimes I prefer to just say that I’m a **Data Cowgirl**. I ride around my trusty stallion Bracket and make sure all the data is[^1] thriving. Nurture it, help it grow strong, and when the leaves turn I go shear it and spend the long winter weaving it into tapestries. How exactly that manifests changes all the time — teaching workshops, handcrafted dev tools, bomb-proof streaming data platforms for industrial manufacturing, cookbook repos, partnering with Sales on a [Hex app](#-some-data-tools-oss-that-i-really-love) to smash their Q4 goals, building community in-person and online (and a dozen other things) — but the motivation remains the same: nurture an organization's data ecosystem, get people excited about _their_ ability to do amazing things within it, then work together to understand this world a little better every day.
+- building handcrafted dev tools
+- building enterprise SaaS dev tools
+- constructing bomb-proof streaming data platforms for industrial manufacturing
+- building tiny data warehouses for education non-profit groups, carefully designed to never tick over BigQuery's generous free tier
+- designing and teaching effective patterns
+- giving conference talks
+- designing web apps to build knowledge graphs
+- managing teams building those knowledge graphs
+- working with sales teams on [Hex apps](#-some-data-tools-oss-that-i-really-love) to smash their Q4 goals
+- making dashboards and running financial analyses
+- building communities in-person and online
+- shipping lovingly crafted CLI data tools
+- extracting data from a bunch of places and weaving into a cohesive world
+- writing newsletters and blogs
+- writing documentation and guides
+- running social media campaigns
+- analyzing social media camapigns
+- modeling social campaign data in dbt and constructing Looker Explores around those models
 
-#### The most recent town I passed through on my journey across the frontier
+🎷🐄 You get it! So: Data Cowgirl.
 
-##### A little place called Fishtown...
+The particular project is not as important as the mission: 
 
-🍊⚙️ Most recently, I spent a few years working in Developer Experience at [dbt Labs](https://github.com/dbt-labs), and before that a couple years in their consulting wing. I started back when it was a scrappy 20 person consulting firm called Fishtown Analytics that had accidentally built something magical. What I cherish most about my time at dbt was working across a huge variety of organizations — so many different challenges, so many different needs, and I got to touch every tool, every platform as I built solutions. This really sharpened my approach, honing down to what actually matters, what transcends the ever-changing river of tools and code. I learned to find the most important questions and build better answers, not data platforms. And I learned to build excellent things very quickly. 
+1. 🌱🍄‍🟫 Nurture a data ecosystem
+2. ✨🕸️ Get people excited about _their_ ability to do amazing things within it
+3. 🗺️🌊 Work together to understand this world a little better every day 🫶
 
-🏎️✨ Most importantly though, all the amazing teams I got to work with showed me that prioritizing people — becoming a passionate teacher, solidfying trust through deep listening and empathy (taking the time to **do the work** that you're aiming to improve alongside the stakeholders is invaluable), nurturing _curiosity_ and _ownership_ in every person, every role —is orders of magnitude more powerful than any technology[^2]. Data teams should think of themselves as a Platform team for the rest of the business — clarity, velocity, solid answers, better decisions — not a help desk where hard questions get answered with a list of caveats longer than the notebook code.
+Giddyup!
+<img src="https://github.com/user-attachments/assets/e053ca2f-2ae0-4006-917a-ada4f1ebbe00" width=100 />
 
-🔧🤠 Working in DX was particularly special, as our team not only handled typical work like creating resources and expanding the community, but also building tools and pushing commits to the product directly when possible. This kind of 'Full-stack DX' created a deep, mutually beneficial symbiosis between dbt Labs and the dbt community that helped both thrive and stay true to our mission. Every member of that team was so sharp and special, it was quite a squad!
 
 ### Things I love
 
-👩🏻‍🌾🌱 Terminals, shells, command lines, Neovim, and spending waaay too much time gardening my dotfiles. You can [check them out here](https://github.com/gwenwindflower/.charmschool). I'm excited by the terminal renaissance we're seeing because of Claude Code, even though it's totally transforming the work. The speed you can move at, the toil you can avoid, it's incredible. 
+👩🏻‍🌾🐚 Terminals, shells, command lines, Neovim, and spending waaay too much time gardening my dotfiles. You can [check them out here](https://github.com/gwenwindflower/.charmschool). I'm excited by the terminal renaissance we're seeing because of Claude Code, even though it's totally transforming the work. The speed you can move at, the toil you can avoid, it's incredible. 
 
-🎷🦕 To that end, writing cute and useful CLI tools in Go with the [Charm](https://github.com/charmbracelet) libraries lately. It makes me very very happy.
-
+🍦🦕 To that end, writing cute and useful CLI tools in Go with the [Charm](https://github.com/charmbracelet) libraries lately. It makes me very very happy.
 
 ##### 📈🥬 Some data tools (SaaS stuff) that I really love:
   - [Hex](https://hex.tech/)
@@ -62,9 +83,7 @@ If you like my recommendations and want more: my collecting/scrapbooking/journal
 
 1. Data visualization is overrated! Don't get me wrong, I love visuals, and there are many, many analyses where they help communicate in a way words can't (I'm a girl with the complete works of Tufte on my shelf) — but in BI, visualization is treated as the go-to, the standard, THE final destination of all this engineering and modeling effort. It's past time we remembered that this week's revenue numbers might work better in a short paragraph, and thankfully LLMs are getting us there.
 
-2. You're looking at too much data. Your brain _cannot_ track a dashboard of 50 metrics hour-by-hour, day-by-day in a way that is actually useful and effective. Most people do this becaue they're afraid of fielding reporting questions in their domain they can't answer. Too many people are working in a cultural environment where the (admittedly impressive) trick of memorizing metrics stands in for actually moving the needle, but this anxious number-watching makes them _less_ sensitive to truly valuable signal, not more. It certainly sounds cool to zing out on-the-fly metrics in a board meeting with the punchy precocity of Sorkin dialog, but it's wasteful theater. The most successful businesses hammer on the same metrics week-after-week, testing the levers, building a reliable model for growth. Hypotesize, push, measure what happens, update knowledge — sticking to this loop with discipline maps out the machine, finding reliable ways of moving a number. This is the process that makes data feel like hacking The Matrix, and using it well into a real competitive advantage.
-
-### Au revoir!
+2. You're looking at too much data. Your brain _cannot_ track a dashboard of 50 metrics hour-by-hour, day-by-day in a way that is actually useful and effective. It's the sensory equivalent of operating without object permanence. When we know how something behaves, we don't need our eyes on it at all times — our goal should be to get to this place with our most important metrics, saving chart watching for chaotic crises. It _is_ cool to pounce on your CEO's board meeting pop quiz with a ratatat of punchy metrics that would make Aaron Sorkin proud, there's no denying that, but unless your career is based primarily on corporate theater, there are better things to do with your time!
 
 🃏🧚🏼 I'll leave you with something relevant to ponder — my favorite card from Brian Eno's famous Oblique Strategies deck...
 
@@ -88,4 +107,4 @@ If you like my recommendations and want more: my collecting/scrapbooking/journal
 ```
 
 [^1]: If you're frustrated that I don't treat "data" as a plural, sorry—language is a living, evolving thing!
-[^2]: Yes even AI! While AI is _incredible_ for data analysis and building software, the best questions, the deep _why_ questions that change the world, those are still human.
+[^2]: Annoying
