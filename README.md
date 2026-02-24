@@ -4,7 +4,7 @@
 > — **Mary Midgley**, _Myths We Live By_
 
 ```text
-．　　　∧＿∧
+  　　　∧＿∧
 　 ｒy´・ω・｀ヽっ
 　　`!　　　　　i
 　　 ゝc＿c_,.ノ
@@ -33,19 +33,19 @@ To be less..._poetic_[^2] about it — the way this manifests changes all the ti
 - constructing bomb-proof streaming data platforms for industrial manufacturing
 - building tiny data warehouses for education non-profit groups, carefully designed to never tick over BigQuery's generous free tier
 - designing and teaching effective patterns
+- extracting data from a bunch of places and weaving it into a cohesive world 
+- building communities in-person and online
+- shipping lovingly crafted CLI data tools
+- writing newsletters and blogs
+- writing documentation and guides
 - giving conference talks
 - designing web apps to build knowledge graphs
 - managing teams building those knowledge graphs
 - working with sales teams on [Hex apps](#-some-data-tools-oss-that-i-really-love) to smash their Q4 goals
 - making dashboards and running financial analyses
-- building communities in-person and online
-- shipping lovingly crafted CLI data tools
-- extracting data from a bunch of places and weaving into a cohesive world
-- writing newsletters and blogs
-- writing documentation and guides
 - running social media campaigns
 - analyzing social media camapigns
-- modeling social campaign data in dbt and constructing Looker Explores around those models
+- modeling data from social campaigns in dbt then constructing Looker Explores on top of them
 
 🎷🐄 You get it! So: Data Cowgirl.
 
