@@ -21,10 +21,10 @@ To be less..._poetic_[^2] about it — the way this manifests changes all the ti
 - building industry-leading enterprise SaaS platforms, and lovingly crafted OSS CLIs
 - constructing bomb-proof streaming data for cutting-edge factories, and tiny data warehouses pro bono for education non-profits (carefully designed to never tick over BigQuery's generous free tier)
 - weaving diverse data sources into a cohesive world, and passionate human beings into cohesive communities 
-- designing web apps, and resilient patterns for data work
-- managing analytics for teams (a lot of Marketing, Finance, DevOps, Sales), and teams of my own
-- writing in-depth docs on Python SDKs, and explorations of truth in data work
-- also, making the best memes in the data space 😌
+- designing beautiful web apps, and resilient patterns for data work
+- managing analytics for teams (a lot of Marketing, Finance, DevOps, Sales), and managing teams of my own
+- writing in-depth docs on Python SDKs, and explorations of what truth means in data
+- and of course, making the best memes in the data space 😌
 
 🎷🐄 You get the idea — data cowgirl.
 
