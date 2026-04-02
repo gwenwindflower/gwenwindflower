@@ -19,7 +19,7 @@ Hence: **Data Cowgirl**. Ride around my trusty stallion Bracket and make sure al
 To be less..._poetic_[^2] about it — the way this manifests changes all the time, making labels a bit difficult. I've spent professional stretches:
 
 - building industry-leading enterprise SaaS platforms, and lovingly crafted OSS CLIs
-- constructing bomb-proof streaming data for cutting-edge factories, and tiny data warehouses pro bono for education non-profits (carefully designed to never tick over BigQuery's generous free tier)
+- constructing bomb-proof streaming data platforms for cutting-edge factories, and tiny data warehouses pro bono for education non-profits (carefully designed to never tick over BigQuery's generous free tier)
 - weaving diverse data sources into a cohesive world, and passionate human beings into cohesive communities 
 - designing beautiful web apps, and resilient patterns for data work
 - managing analytics for teams (a lot of Marketing, Finance, DevOps, Sales), and managing teams of my own
@@ -30,7 +30,7 @@ To be less..._poetic_[^2] about it — the way this manifests changes all the ti
 
 No matter the particulars, the mission is always: 
 
-1. 🌱🍄‍🟫 Nurture data ecosystems
+1. 🌱🍄‍🟫 Nurture data ecosystems with technical rigor and deep empathy
 2. ✨🕸️ Get people excited about _their_ ability to do amazing things within it
 3. 🗺️🌊 Work together to understand this world a little better every day 🫶
 
