@@ -42,9 +42,9 @@ Giddyup!
 
 ### Things I love
 
-👩🏻‍🌾🐚 Terminals, shells, command lines, Neovim, and spending waaay too much time gardening my dotfiles. You can [check them out here](https://github.com/gwenwindflower/.charmschool) (although I'm very close to launching a new repo based on [chezmoi](https://www.chezmoi.io/)). I'm really stoked about the terminal renaissance we're seeing from Claude Code! Seeing more people reach for the precision, speed, and control of the command line is so welcome after a decade of trying to wrap everything in a GUI.
+👩🏻‍🌾🐚 Terminals, shells, command lines, Neovim, and spending waaay too much time gardening my dotfiles. You can [check them out here](https://github.com/gwenwindflower/dotfiles) (I recently migrated to [chezmoi](https://www.chezmoi.io/), if you're a dotfiles nerd, I recommend it). I'm really stoked about the terminal renaissance we're seeing from Claude Code! Seeing more people reach for the precision, speed, and control of the command line is so welcome after a decade of trying to wrap everything in a GUI.
 
-🍦🦕 Writing cute and useful CLIs and TUIs in Go with the [Charm](https://github.com/charmbracelet) libraries is a favorite of mine — although recently I've been using Deno a lot as well, and sometimes build multi-threaded Python tools with Typer when scale or portability is not a concern. I'm planning to spend more time building in Rust this year though, as it's clearly become the gold standard for modern command line tools.
+🍦🦕 Writing cute and useful CLIs and TUIs in Go with the [Charm](https://github.com/charmbracelet) libraries is a favorite of mine — although recently I've been using Deno a lot as well, and sometimes build multi-threaded Python tools with Typer when scale or portability is not a concern. I'm planning to spend more time building in Rust this year though, as it's clearly become the gold standard for modern command line tools. I've been starting to release some random tools from my freelance work via the [g15r GitHub org](https://github.com/g15r), the ones I'm most excited about are still baking, but there are some nice utils in my [Homebrew tap](https://github.com/g15r/homebrew-tap) for now.
 
 #### 💌📈 Tools and trends I dig
 
