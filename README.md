@@ -3,6 +3,10 @@
 >
 > — **Mary Midgley**, _Myths We Live By_
 
+> Data dominates. If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident. Data structures, not algorithms, are central to programming.
+>
+> — **Rob Pike** (one of the creators of Go)
+
 #### 🍓📊 Hi! Welcome!
 ### My name is Gwyneth, but everybody calls me Winnie
 ##### (people only call me Gwen when I'm in trouble)
