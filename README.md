@@ -11,10 +11,7 @@
 ### My name is Gwyneth, but everybody calls me Winnie
 ##### (people only call me Gwen when I'm in trouble)
 ###### or 'Aunt Gen' if you're my niece 🥹
-
-💽🌿 I love building stuff with (and for) data and AI.
-
-A hyper-responsive data platform → super tidy and well-documented data models for agents and humans → clear narrative analyses with just the right level of snappy interactivity and gorgeous artifacts — this stack does something to my brain that makes me very happy.
+##### 💽🌿 I love building stuff with (and for) data and AI.
 
 ## 🌌🐴 Data Cowgirl?
 
